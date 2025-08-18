@@ -1,3 +1,7 @@
 body {
-    height: 1600px;
+    width: 1600px;
+}
+
+div {
+    background-image: url(images/image.png);
 }
