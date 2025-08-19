@@ -35,3 +35,21 @@ body {
     z-index: 1;
     font-family: 'Times New Roman', Times, serif;
 }
+
+.ice-coffee1 {
+    display: flex;
+    position: relative;
+    bottom : 950px;
+    right: -550px;
+    color: black;
+    background-color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    width: 600px;
+    height: 150px;
+    padding: 20px;
+    text-align:left;
+    z-index: 1;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid aquamarine;
+}
