@@ -53,3 +53,8 @@ body {
     font-family: 'Times New Roman', Times, serif;
     border: 1px solid aquamarine;
 }
+.img-svg {
+    border: 1px solid red;
+    width: 100%;
+    height: 100%;
+}
