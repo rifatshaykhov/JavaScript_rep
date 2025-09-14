@@ -49,7 +49,30 @@ body {
     flex-wrap: wrap;
 }
 
-h1 {
+.zg {
     font-size: 13px;
 }
 
+.ice-coffee2 {
+    display: flex;
+    position: relative;
+    font-size: 12px;
+    bottom: -30px;
+    right: -150px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.vector {
+    display: flex;
+    flex-direction: row;
+    padding-right: 60px;
+ }
+
+.icons {
+    display: flex;
+    padding-right: 15px;
+ }
+
+.highlight-text {
+    color: orange;
+}
